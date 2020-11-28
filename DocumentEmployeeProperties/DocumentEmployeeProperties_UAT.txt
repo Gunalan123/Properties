@@ -1,0 +1,29 @@
+   DocumentEmployee#additionalInstances
+   DocumentEmployee#notificationThresholdMsgsPerSec
+   DocumentEmployee#maximumRateMsgsPerSec
+   DocumentEmployee#processingTimeoutSec
+   DocumentEmployee#processingTimeoutAction
+   DocumentEmployee#wlmPolicy
+   DocumentEmployee#commitCount
+   DocumentEmployee#commitInterval
+   DocumentEmployee#coordinatedTransaction
+   DocumentEmployee#consumerPolicySet
+   DocumentEmployee#providerPolicySet
+   DocumentEmployee#consumerPolicySetBindings
+   DocumentEmployee#providerPolicySetBindings
+   DocumentEmployee#securityProfileName
+   DocumentEmployee#monitoringProfile
+   DocumentEmployee#startMode
+   DocumentEmployee#startInstancesWhenFlowStarts
+   DocumentEmployee#HTTP Reply.validateMaster
+   DocumentEmployee#Compute.dataSource
+   DocumentEmployee#Compute.connectDatasourceBeforeFlowStarts
+   DocumentEmployee#Compute.validateMaster
+   DocumentEmployee#HTTP Input.URLSpecifier = /DocumentEmploye1
+   DocumentEmployee#HTTP Input.useHTTPS
+   DocumentEmployee#HTTP Input.decompressInputMessage
+   DocumentEmployee#HTTP Input.timeoutForClient
+   DocumentEmployee#HTTP Input.faultFormat
+   DocumentEmployee#HTTP Input.validateMaster
+   DocumentEmployee#HTTP Input.securityProfileName
+
