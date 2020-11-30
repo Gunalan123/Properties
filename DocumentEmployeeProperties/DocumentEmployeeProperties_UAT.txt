@@ -19,7 +19,7 @@
    DocumentEmployee#Compute.dataSource
    DocumentEmployee#Compute.connectDatasourceBeforeFlowStarts
    DocumentEmployee#Compute.validateMaster
-   DocumentEmployee#HTTP Input.URLSpecifier = /DocumentEmploye1
+   DocumentEmployee#HTTP Input.URLSpecifier = /DocumentEmployee1
    DocumentEmployee#HTTP Input.useHTTPS
    DocumentEmployee#HTTP Input.decompressInputMessage
    DocumentEmployee#HTTP Input.timeoutForClient
